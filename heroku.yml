@@ -1,0 +1,6 @@
+# RCD MD WHATSAPP BOT 2024
+build:
+  docker:
+      worker: Dockerfile
+#RCD
+#DEXTER TEAM
